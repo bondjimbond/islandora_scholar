@@ -49,7 +49,7 @@ Additional XPath Configurations:
 
 ![ISLANDORA SCHOLAR XPATH CONFIGURATION](https://user-images.githubusercontent.com/11573234/48782673-b3362400-ecac-11e8-869c-3928c43df253.PNG)
 
-Clicking the "__Save Configuration__" will create drupal variable for each of these. Clicking "__Reset all XPaths to Defaults__" will delete the drupal global variables and fault back to the hard coded ones. Using the demo object will not modify the object, this is for identifying what MODS values are read with the specified XPath.
+Clicking the "__Save Configuration__" will create drupal variable for each of these. Clicking "__Reset all XPaths to Defaults__" will delete the drupal global variables and fault back to the hard coded ones. Using the demo object will not modify the object, this is for identifying what MODS values are read with the specified XPath. 
 
 #### GENERAL XPATH CONFIGURATIONS
 These XPaths are shared within most of the submodules. To see the MODS value after editing an entry, tab to the next field.
